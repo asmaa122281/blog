@@ -1,0 +1,45 @@
+
+    .bgimage{
+
+        background-image: url("images/blog.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+
+    }
+    
+    .contact{
+
+        background-image: url("images/contact.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+
+
+    }
+    .about{
+
+        background-image: url("images/about.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+
+
+    }
+    .post{
+
+        background-image: url("images/post.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+
+
+    }
+
+
+    .style{
+
+    
+        background-color: #d0b9f7;
+
+    }
